@@ -6,10 +6,7 @@ layout: post
 
 This Github repo contains several iPython notebooks.
 
-<ul>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+* [{{ post.url }}]({{ post.title }})
   {% endfor %}
 </ul>
