@@ -6,7 +6,7 @@ layout: post
 
 This Github repo contains several iPython notebooks.
 
-  {% for post in site.posts %}
-* [{{ post.url }}]({{ post.title }})
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+* [{{ site.url }}/{{ post.url }}]({{ post.title }})
+{% endfor %}
+
