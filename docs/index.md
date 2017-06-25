@@ -6,6 +6,6 @@ layout: default
 This Github repo contains several iPython notebooks.
 
 {% for post in site.posts %}
-* [{{ post.title }}](/ipython{{ post.url }})
+* [{{ post.title }}]({{ post.url | prepend: site.github.url }})
 {% endfor %}
 
