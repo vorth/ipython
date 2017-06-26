@@ -2,6 +2,8 @@
 ---
 # Visual Math with iPython
 
+![woven hendecagram image](hendecagrams.tiff)
+
 The [Github repository](https://github.com/vorth/ipython)
 hosting this page contains several [iPython/Jupyter](https://ipython.org/) notebooks,
 each one using Python code to visually explore the Mathematics of algebraic fields.
@@ -38,4 +40,6 @@ them in iPython itself, the same way I developed them.
 {% for post in site.posts %}
 * [{{ post.title }}]({{ post.url | prepend: site.github.url }})
 {% endfor %}
+
+![heptanautiloid](heptanautiloid.tiff)
 
