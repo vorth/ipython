@@ -13,9 +13,9 @@ the notebooks largely speak for themselves.
 This is certainly true for this three part series on numbers derived from the regular heptagon,
 and how to draw interesting figures with them:
 
-* [Part 1: Heptagon Numbers] (http://nbviewer.jupyter.org/github/vorth/ipython/blob/master/heptagons/HeptagonNumbers.ipynb)
-* [Part 2: Drawing the Heptagon] (http://nbviewer.jupyter.org/github/vorth/ipython/blob/master/heptagons/DrawingTheHeptagon.ipynb)
-* [Part 3: Heptagon Rotations] (http://nbviewer.jupyter.org/github/vorth/ipython/blob/master/heptagons/Sevenfold%20Rotation.ipynb)
+* [Part 1: Heptagon Numbers](http://nbviewer.jupyter.org/github/vorth/ipython/blob/master/heptagons/HeptagonNumbers.ipynb)
+* [Part 2: Drawing the Heptagon](http://nbviewer.jupyter.org/github/vorth/ipython/blob/master/heptagons/DrawingTheHeptagon.ipynb)
+* [Part 3: Heptagon Rotations](http://nbviewer.jupyter.org/github/vorth/ipython/blob/master/heptagons/Sevenfold%20Rotation.ipynb)
 
 Another notebook documents the code and techniques I used to generate the
 [woven hendecagrams](http://nbviewer.jupyter.org/github/vorth/ipython/blob/master/hendecagons/Hendecagons.ipynb)
