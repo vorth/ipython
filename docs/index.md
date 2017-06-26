@@ -2,7 +2,7 @@
 ---
 # Visual Math with iPython
 
-![woven hendecagram image](hendecagrams.tiff)
+![woven hendecagram image]({{ site.github.url }}/hendecagrams.tiff)
 
 The [Github repository](https://github.com/vorth/ipython)
 hosting this page contains several [iPython/Jupyter](https://ipython.org/) notebooks,
@@ -41,5 +41,5 @@ them in iPython itself, the same way I developed them.
 * [{{ post.title }}]({{ post.url | prepend: site.github.url }})
 {% endfor %}
 
-![heptanautiloid](heptanautiloid.tiff)
+![heptanautiloid]({{ site.github.url }}/heptanautiloid.tiff)
 
